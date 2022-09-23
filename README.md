@@ -1,0 +1,5 @@
+- :taurus:Oi eu sou o Luan
+- :trollface:estou interessado em progamação
+- :checkered_flag: tenho 17 anos
+- :fleur_de_lis: estou estudando Pensamento Computacional
+-  :no_smoking:vocẽ pode me encontrar em @luan.lucas.pinheiro@escola.pr.gov.br
